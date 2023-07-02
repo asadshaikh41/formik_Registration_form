@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![screencapture-localhost-3000-2023-07-02-15_40_05](https://github.com/asadshaikh41/formik_Registration_form/assets/87890728/e993b19c-2b73-4be1-8f55-4650d3a029a9)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
